@@ -1,0 +1,19 @@
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.exe
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.deps.json
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.runtimeconfig.json
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.runtimeconfig.dev.json
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.dll
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\ref\kamien norzyce paper.dll
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\bin\Debug\net5.0-windows\kamien norzyce paper.pdb
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.csprojAssemblyReference.cache
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien_norzyce_paper.Form1.resources
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien_norzyce_paper.Properties.Resources.resources
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.csproj.GenerateResource.cache
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.AssemblyInfoInputs.cache
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.AssemblyInfo.cs
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.csproj.CoreCompileInputs.cache
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.dll
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\ref\kamien norzyce paper.dll
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.pdb
+C:\Users\praktykant2\source\repos\kamien norzyce paper\kamien norzyce paper\obj\Debug\net5.0-windows\kamien norzyce paper.genruntimeconfig.cache
